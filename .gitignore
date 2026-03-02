@@ -18,6 +18,10 @@ build/
 credentials.json
 token.json
 
+# Runtime data
+memory_*.json
+blocklist.json
+
 # IDE
 .vscode/
 .idea/
