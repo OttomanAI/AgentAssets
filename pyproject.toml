@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-pinecone = ["pinecone-client>=3.0.0"]
+pinecone = ["pinecone>=5.0.0"]
 gmail = [
   "google-api-python-client>=2.0.0",
   "google-auth-oauthlib>=1.0.0",
